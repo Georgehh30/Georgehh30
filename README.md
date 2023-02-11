@@ -1,9 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgeh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgeh30"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgehh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgehh30"/> </p>
 
 <h1 align="center">Hola 👋, Soy Jorge Alvarado</h1>
 <h3 align="center">Apasionado y dedicado a la programación web, especialmente en lenguajes y frameworks como JavaScript, PHP, HTML, CSS, Python, Django y Java.</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="georgeh30" width="200" height="200"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="georgehh30" width="200" height="200"/> </p>
 
 <h3 align="left">Acerca de mi</h3>
 <p align="left">
