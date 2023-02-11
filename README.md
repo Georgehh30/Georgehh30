@@ -274,7 +274,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 <p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=georgeh30&theme=tokyonight&show_icons=true&locale=es"
+    src="https://github-readme-stats.vercel.app/api?username=georgehh30&theme=tokyonight&show_icons=true&locale=es"
     alt="georgeh30"
   />
 </p>
@@ -282,7 +282,7 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=georgeh30&theme=tokyonight&locale=es"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=georgehh30&theme=tokyonight&locale=es"
     alt="georgeh30"
   />
 </p>
@@ -290,13 +290,13 @@ Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer solucione
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
-      alt="georgeh30"
+      src="https://github-profile-trophy.vercel.app/?username=Georgehh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
+      alt="georgehh30"
     />
   </a>
 </p>
 
-[![George's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Georgeh30&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![George's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Georgehh30&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
