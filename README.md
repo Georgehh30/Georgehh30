@@ -30,7 +30,7 @@
 
 <h3 align="left">Pasatiempos</h3>
 <p align="left">
-  Mis aficiones incluyen el deporte y la tecnología. Me encanta jugar al fútbol y correr en competiciones de atletismo, lo que me ayuda a mantenerme en forma y activo. Además, soy un amante de las películas, disfruto de la cultura cinematográfica y paso mucho tiempo explorando diferentes géneros.  También me interesa mucho el desarrollo web y estoy constantemente aprendiendo sobre nuevas tecnologías como Python, Django, React JS, y la creación de API's. Me gusta desarrollar aplicaciones web personales y experimentar con diferentes conexiones a estas API's, lo que me permite ampliar mis habilidades y conocimientos en el area del desarrollo web.
+  Apasionado del deporte, especialmente fútbol y atletismo, y aficionado al cine. Además, entusiasta del desarrollo web, siempre explorando nuevas tecnologías como Python, Django y React JS, creando aplicaciones personales y experimentando con API's para expandir conocimientos.
 </p>
 
 <br>
