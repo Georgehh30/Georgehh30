@@ -7,10 +7,7 @@
 
 <h3 align="left">Acerca de mi</h3>
 <p align="left">
-  Soy un desarrollador web apasionado y altamente capacitado con más de 2 años de experiencia en el campo laboral y en campo en general con más de 6 años de experiencia, con un historial comprobado de éxitos en la creación de soluciones innovadoras y eficientes para los usuarios.
-He desarrollado aplicaciones web y móviles con una amplia gama de tecnologías, incluyendo HTML, CSS, JavaScript, PHP, MySQL, Django, Python, Java y React, y he trabajado en proyectos individuales y en equipo con un enfoque en la calidad y el cumplimiento de plazos.
-Como desarrollador web, cuento con las habilidades técnicas, lo que me permite entender las necesidades de los usuarios y ofrecer soluciones efectivas que superan sus expectativas
-Sigo aprendiendo y adaptándome a las nuevas tecnologías para ofrecer soluciones innovadoras y eficientes a los usuarios. Me esfuerzo por ser un desarrollador web completo, comprometido y proactivo que busca siempre superar sus metas y lograr éxitos duraderos.  
+  Desarrollador web altamente capacitado con 3+ años de experiencia. Expertise en HTML, CSS, JavaScript, PHP, MySQL, Django, Python, Java, React. Comprometido con la calidad, el trabajo en equipo y la innovación para superar expectativas. 
 </p>
 
 <br>
