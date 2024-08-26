@@ -1,365 +1,245 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=georgehh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgehh30"/> </p>
 
-<h1 align="center">Hola 👋, Soy Jorge Alvarado</h1>
-<h3 align="center">Apasionado y dedicado a la programación web, especialmente en lenguajes y frameworks como JavaScript, PHP, HTML, CSS, Python, Django y Java.</h3>
-
-<p align="center"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="georgehh30" width="200" height="200"/> </p>
-
-<h3 align="left">Acerca de mi</h3>
-<p align="left">
-  Desarrollador web altamente capacitado con 3+ años de experiencia. Expertise en HTML, CSS, JavaScript, PHP, MySQL, Django, Python, Java, React. Comprometido con la calidad, el trabajo en equipo y la innovación para superar expectativas. 
-</p>
-
-<br>
-
-- 🔭 Actualmente trabajando en [TO DO Frontend](https://github.com/Georgeh30/TO-DO-WITH-REACT-VITEJS) + [TO DO Backend](https://github.com/Georgeh30/API-REST-TODO) 
-
-- 🌱 Actualmente estoy aprendiendo **Django Rest Framework, Autenticación y permisos por cookies, peticiones http por axios, React, python.**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Georgeh30](https://github.com/Georgeh30)
-
-- 💬 Preguntame sobre **React, DRF, Java, Python, Django, Javascript, Php, patrón en el diseño de software MVC y MTV, Html y Css**
-
-- 📫 Contactame en **johncrotf2@gmail.com, 5579125141**
-
-- 📄 Conoce mis experiencias [https://devfolio.co/@Jorge](https://devfolio.co/@Jorge)
-
-- 📄 Te comparto mi CV [https://resume.io/r/JXyu2Kbic](https://resume.io/r/JXyu2Kbic)
-
-<br>
-
-<h3 align="left">Pasatiempos</h3>
-<p align="left">
-  Apasionado del deporte, especialmente fútbol y atletismo, y aficionado al cine. Además, entusiasta del desarrollo web, siempre explorando nuevas tecnologías como Python, Django y React JS, creando aplicaciones personales y experimentando con API's para expandir conocimientos.
-</p>
-
-<br>
-
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-      alt="canvasjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-</p>
-<p align="center">
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://github.com/Georgeh30/profile-images/blob/main/img/banner/banner.png" alt="Welcome Banner" width="600" height="300" />
 </p>
 
-<br>
+<h1 align="center">👋 Hello, I'm <a href="https://yourportfolio.com" target="_blank">Jorge Alvarado</a></h1>
 
-<h3 align="center">Estadísticas</h3>
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=georgeh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
-    alt="georgeh30"
-  />
+  A passionate Fullstack Developer with a focus on building modern, responsive, and scalable web applications.
 </p>
 
 <p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=georgehh30&theme=tokyonight&show_icons=true&locale=es"
-    alt="georgeh30"
-  />
+  <a href="https://portfolio-repo-v1.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jorge-alvarado-9a99a81b0/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/JorgeAl90752656"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/jorgealvarado2609/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:johncrotf2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Georgeh30"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://portfolio-repo-v1.netlify.app/"><img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-portfolio.png" alt="Portfolio Website" width="100%"/></a>
+      <br>
+      <a href="https://portfolio-repo-v1.netlify.app/"><strong>Portfolio Website</strong></a>
+      <p>A responsive personal website showcasing my work, skills, and experience. Built with React, Vite, Tailwind CSS, and deployed on Netlify.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://move-repo-v1.netlify.app/movie-catalog"><img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-move.png" alt="Movie Catalog" width="100%"/></a>
+      <br>
+      <a href="https://move-repo-v1.netlify.app/movie-catalog"><strong>Movie Catalog</strong></a>
+      <p>A web application for searching, filtering, and discovering movies. Integrates with a public API for detailed movie information.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://weather-repo-v1.netlify.app/Weather/Home"><img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-weather.png" alt="Weather App" width="100%"/></a>
+      <br>
+      <a href="https://weather-repo-v1.netlify.app/Weather/Home"><strong>Weather App</strong></a>
+      <p>A mobile-friendly weather application that provides real-time weather data for any location. Built with React and OpenWeather API.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://calculator-repo-v1.netlify.app/"><img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-calculator.png" alt="Advanced Calculator" width="100%"/></a>
+      <br>
+      <a href="https://calculator-repo-v1.netlify.app/"><strong>Calculator App</strong></a>
+      <p>An innovative calculator tool supporting basic arithmetic calculations. Features a clean UI and responsive design.</p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+<h2 align="center">🏢 Projects at DSV Global Transport and Logistics</h2>
+
+<p align="center">
+  A collection of key internal projects developed at DSV Global Transport and Logistics, showcasing my contributions to business-critical solutions. These projects are hosted on private servers and are not publicly accessible.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Attendance Control</strong>
+      <p>A web application designed to manage employee attendance and incidents efficiently. This project was built with a robust front-end using React + Vite JS, React Router, Redux, Redux Toolkit, Formik + Yup, MDBootstrap + MUI, and a back-end powered by PHP, PHPMailer, phpSpreadsheet, and CSS.</p>
+      <img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-ac.png" alt="Attendance Control Screenshot" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Omina</strong>
+      <p>A daily management tool for tracking and overseeing the work done by logistics operators managing shipments between clients and vendors. Developed with Vanilla JavaScript, DataTable JS, MDBootstrap, PHP, PHPMailer, Chart JS, CSS, and HTML.</p>
+      <img src="https://github.com/Georgeh30/profile-images/blob/main/img/projects/project-omnia.png" alt="Omina Screenshot" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Stats & Most Used Languages</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgeh30&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgeh30&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
+<h2 align="center">🚀 Contribution Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgeh30&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" alt="Contribution Stats" />
+</p>
+
+---
+
+<h2 align="center">🎓 Courses & Certifications</h2>
+
+<p align="center">
+  <table align="center" width="80%" border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+      </td>
+      <td align="center">
+        <strong>Python</strong><br/>
+        Platzi, YouTube<br/>
+        _Febrero 2021 — Febrero 2022_
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Django-092D43?style=flat&logo=django&logoColor=white" alt="Django Badge"/>
+      </td>
+      <td align="center">
+        <strong>Django</strong><br/>
+        Platzi, YouTube<br/>
+        _Febrero 2022 — Junio 2022_
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Django%20Rest%20Framework-000000?style=flat&logo=django&logoColor=white" alt="Django Rest Framework Badge"/>
+      </td>
+      <td align="center">
+        <strong>Django Rest Framework</strong><br/>
+        Platzi, YouTube<br/>
+        _Febrero 2022 — Febrero 2023_
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Cisco%20Level%201%20and%202-0066CC?style=flat&logo=cisco&logoColor=white" alt="Cisco Badge"/>
+      </td>
+      <td align="center">
+        <strong>Cisco Nivel 1 y 2</strong><br/>
+        Cisco.com<br/>
+        _Marzo 2018 — Octubre 2019_
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<h2 align="center" style="font-size: 2em; color: #4CAF50; font-weight: bold;">⭐ Key Achievements</h2>
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <div style="background-color: #f0f8ff; border: 1px solid #d3d3d3; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+    <h3 style="font-size: 1.5em; color: #333333; font-weight: bold;">Successful Project Launches</h3>
+    <p style="font-size: 1em; color: #555555;">Spearheaded the development of multiple successful web applications, including a fully-featured portfolio site and a high-impact logistics management tool.</p>
+  </div>
+
+  <div style="background-color: #f0f8ff; border: 1px solid #d3d3d3; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+    <h3 style="font-size: 1.5em; color: #333333; font-weight: bold;">Recognized for Excellence</h3>
+    <p style="font-size: 1em; color: #555555;">Received accolades from peers and supervisors for exceptional coding skills and innovative solutions.</p>
+  </div>
+
+  <div style="background-color: #f0f8ff; border: 1px solid #d3d3d3; border-radius: 8px; padding: 20px;">
+    <h3 style="font-size: 1.5em; color: #333333; font-weight: bold;">Continuous Learning</h3>
+    <p style="font-size: 1em; color: #555555;">Completed advanced courses in Python, Django, and other technologies, demonstrating a commitment to ongoing professional development.</p>
+  </div>
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center" style="font-size: 2em; color: #2c3e50; margin-bottom: 20px;">💼 Professional Experience</h2>
+
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-size: 1.75em; color: #34495e; font-weight: bold;">Senior IT Developer, Software Engineer</h3>
+    <p style="font-size: 1.1em; color: #555555;">
+      <strong>Company:</strong> BCM LATAM, DSV Global Transport and Logistics, Mexico City<br/>
+      <strong>Duration:</strong> September 2023 — Present<br/>
+      <strong>Responsibilities:</strong> Lead a development team in creating, configuring, and deploying web applications. Focused on optimizing internal processes using advanced tools and local servers for deployment. Also responsible for providing ongoing support and ensuring high availability and performance of applications.
+    </p>
+  </div>
+
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-size: 1.75em; color: #34495e; font-weight: bold;">IT Developer, Software Engineer</h3>
+    <p style="font-size: 1.1em; color: #555555;">
+      <strong>Company:</strong> BCM LATAM, DSV Global Transport and Logistics, Mexico City<br/>
+      <strong>Duration:</strong> January 2021 — August 2023<br/>
+      <strong>Responsibilities:</strong> Developed, configured, and deployed web applications to improve processes across all company areas. Responsible for technical support and maintenance of applications, ensuring their functionality and efficiency through various tools and local servers for deployment.
+    </p>
+  </div>
+  
+</div>
+
+<h2 align="center" style="font-size: 2em; color: #2c3e50; margin-bottom: 20px;">🎓 Education</h2>
+
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  
+  <div style="background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-size: 1.75em; color: #34495e; font-weight: bold;">Bachelor's Degree in Systems Engineering</h3>
+    <p style="font-size: 1.1em; color: #555555;">
+      <strong>Institution:</strong> Tecnológico de Estudios Superiores de Ecatepec, State of Mexico<br/>
+      <strong>Duration:</strong> 2016 — 2020<br/>
+      <strong>Details:</strong> Graduated with honors, with a solid foundation in information technologies. Participated in research projects, developing skills in leadership, teamwork, and solving complex problems.
+    </p>
+  </div>
+  
+</div>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I am a dedicated Fullstack Developer with experience in developing complex web applications. I enjoy learning new technologies and applying them to solve real-world problems. My passion lies in creating seamless user experiences, writing clean and efficient code, and continuously improving my skills.
 </p>
 
 <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=georgehh30&theme=tokyonight&locale=es"
-    alt="georgeh30"
-  />
+  <strong>Let's connect and build something amazing together!</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Georgehh30&theme=tokyonight&show_icons=true&locale=es&layout=compact"
-      alt="georgehh30"
-    />
-  </a>
-</p>
-
-[![George's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Georgehh30&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-<h3 align="center">Repositories</h3>
-<p align="center">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=TO-DO-WITH-REACT-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
-<!--   <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=API-REST-TODO-VITEJS&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a> -->
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=Codigos-JavaScript&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
-</p>
-<p align="center">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=rest-framework-tutorial&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Georgeh30&repo=Curso-Django&theme=tokyonight&show_icons=true&locale=es&layout=compact" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-  <a href="https://twitter.com/jorgeal90752656" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jorgeal90752656"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/jorge-alvarado-9a99a81b0" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jorge-alvarado-9a99a81b0"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/jorge alvarado" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="jorge alvarado"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/jorgealvarado2609" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jorgealvarado2609"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/johncrotf2" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="johncrotf2"
-      height="30"
-      width="40"
-  /></a>
+  <strong>⭐️ From <a href="https://github.com/yourusername">Jorge Alvarado</a></strong>
 </p>
