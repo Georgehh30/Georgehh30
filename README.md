@@ -1,10 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgehh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgehh30"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=georgeh30&label=Profile%20views&color=0e75b6&style=flat" alt="georgeh30"/> </p>
 
 <p align="center">
   <img src="https://github.com/Georgeh30/profile-images/blob/main/img/banner/banner.png" alt="Welcome Banner" width="600" height="300" />
 </p>
 
-<h1 align="center">👋 Hello, I'm <a href="https://yourportfolio.com" target="_blank">Jorge Alvarado</a></h1>
+<h1 align="center">👋 Hello, I'm <a href="https://portfolio-repo-v1.netlify.app/" target="_blank">Jorge Alvarado</a></h1>
 
 <p align="center">
   A passionate Fullstack Developer with a focus on building modern, responsive, and scalable web applications.
@@ -184,7 +184,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Georgeh30&theme=blueberry&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -241,5 +241,5 @@
 </p>
 
 <p align="center">
-  <strong>⭐️ From <a href="https://github.com/yourusername">Jorge Alvarado</a></strong>
+  <strong>⭐️ From <a href="https://portfolio-repo-v1.netlify.app/">Jorge Alvarado</a></strong>
 </p>
